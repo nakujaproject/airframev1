@@ -46,4 +46,26 @@ $ cd airframev1
 
 ## Current directory structure
 
+* **assembled** This is the assembled file for the N1 rocket
+
+* **electronicsbay** This is the electronics bay where the electronics components will be attached
+
+* **extraTube** This is the extratube that provides enough stability for the rocket
+
+* **launchlug** This helps guide the rocket during launch
+
+* **nose-basepart1** This is the base part of the nose that attaches to the body
+
+* **nose-toppart1** This is the cover for the nose cone
+
+* **noseAssembly** This is the nose cone assembly
+
+* **payloadchamber** This is the chamber where the electronics bay will go in
+
+* **presentation** This is the presentation for assemblying the N1 rocket
+
+* **servoarm** This the extra arm added to the servo motor to ensure the cover closes
+
+* **tail** This is the tail of the rocket intergrated with the fins
+
 ![List of files](misc/fileList.png)
