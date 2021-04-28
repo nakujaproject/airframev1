@@ -2,7 +2,7 @@
 
 This is project repo for the airframe containing all our design and simulations for the model rocket
 
-![GitHub](https://img.shields.io/github/license/nakujaproject/airframev1)
+[![Create Release](https://github.com/nakujaproject/airframev1/actions/workflows/changelog.yml/badge.svg)](https://github.com/nakujaproject/airframev1/actions/workflows/changelog.yml)![GitHub](https://img.shields.io/github/license/nakujaproject/airframev1)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/nakujaproject/airframev1) ![GitHub last commit](https://img.shields.io/github/last-commit/nakujaproject/airframev1) ![GitHub repo size](https://img.shields.io/github/repo-size/nakujaproject/airframev1) ![Twitter Follow](https://img.shields.io/twitter/follow/Nakuja6?style=social)
 
 ## Table of contents
